@@ -9,15 +9,15 @@ Intent is to build an AI based application that could take input in any document
 
 **What it does**
 
-    Gets input in the Text, Doc, PDF and Image formats
-    Retrieves the text
-    Process and summarizes the text
+Gets input in the Text, Doc, PDF and Image formats
+Retrieves the text
+Process and summarizes the text
 
 **How we built it**
 
-    Input and Output: We used streamlit to deploy the application
-    Looked at different summarization techniques and found abstract summarization to be most suited for now
+Input and Output: We used streamlit to deploy the application
+Looked at different summarization techniques and found abstract summarization to be most suited for now
 
 **Built With**
 
-    python
+python
