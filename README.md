@@ -21,3 +21,10 @@ Looked at different summarization techniques and found abstract summarization to
 **Built With**
 
 python
+
+**How to run it**
+
+Run the combined_code.py file using steamlit.cli.
+You can use the files provided in the sources folder to test different file formats.
+
+https://devpost.com/software/robokalam-challenge-text-summarization?ref_content=user-portfolio&ref_feature=in_progress
