@@ -1,8 +1,7 @@
 # Robokalam_challenege-Text_summarization
 The intent of this project is to help students by summarizing the books or contents from different sources for revision
 
-**Inspiration
-**
+**Inspiration**
 
 Its not much pleasure to spend an hour or two everyday reading a book and students also face problem in revising contents before the exam as it needs for them to summarize huge texts.
 
